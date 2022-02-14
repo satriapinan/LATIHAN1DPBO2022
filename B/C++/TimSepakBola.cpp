@@ -1,8 +1,8 @@
 class TimSepakBola {
 	private:
-		string namaTim;			// Atribut nama tim
-		string negara;			// Atribut asal negara
-		int tahun;				// Atribut tahun berdiri
+		string namaTim;		// Atribut nama tim
+		string negara;		// Atribut asal negara
+		int tahun;		// Atribut tahun berdiri
 		string namaPemain[20];	// Atribut nama pemain
 
 	public:
