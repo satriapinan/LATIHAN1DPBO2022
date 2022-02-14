@@ -2,9 +2,9 @@
 
 class TimSepakBola {
 	// Atribut
-	private $namaTim;		// Nama tim
-	private $negara;		// Asal negara
-	private $tahun;			// Tahun berdiri
+	private $namaTim;	// Nama tim
+	private $negara;	// Asal negara
+	private $tahun;		// Tahun berdiri
 	private $namaPemain;	// Nama pemain
 
 	// Konstruktor
