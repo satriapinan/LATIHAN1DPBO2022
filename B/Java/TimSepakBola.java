@@ -1,8 +1,8 @@
 public class TimSepakBola {
 	// Atribut
-	private String namaTim;			// Nama tim
-	private String negara;			// Asal negara
-	private int tahun;				// Tahun berdiri
+	private String namaTim;		// Nama tim
+	private String negara;		// Asal negara
+	private int tahun;		// Tahun berdiri
 	private String namaPemain[];	// Nama pemain
 
 	// Konstruktor
