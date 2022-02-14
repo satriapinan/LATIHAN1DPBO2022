@@ -4,8 +4,8 @@ class Mahasiswa {
 	// Kelas mahasiswa
 
 	// Atribut
-	private $nim = "";		// NIM Mahasiswa
-	private $nama = "";		// Nama Mahasiswa
+	private $nim = "";	// NIM Mahasiswa
+	private $nama = "";	// Nama Mahasiswa
 	private $gender = "";	// Jenis Kelamin Mahasiswa
 	private $prodi = "";	// Program Studi Mahasiswa
 	private $semester = 0;	// Semester Mahasiswa
